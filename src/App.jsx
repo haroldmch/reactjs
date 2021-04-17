@@ -5,7 +5,7 @@ import MathOperations from './components/MathOperations'
 import Numbers from './components/Numbers'
 import Result from './components/Result'
 import './App.css' 
-
+// :D
 const App = () => {
 
     const clickHandlerFunction = text => {
