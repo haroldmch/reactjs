@@ -18,4 +18,4 @@ Builds the app for production to the `build` folder.\
 
 ### `npm install`
 
-Installa dependencies
+Install dependencies
